@@ -1,2 +1,93 @@
 # Project-548
+
 Wastewater Treatment and Reuse for Member Textile Industries by Chinnakkarai CETP
+
+UWR RoU Scope: 5
+
+Scope 5: Conservation measures taken to
+recycle and/or reuse water, spent +washing
+wastewater etc. across or within specific
+industrial processes and systems, including
+wastewater recycled/ reused in a different
+process, but within the same site or location
+of the project activity. Recycled wastewater
+used in off-site landscaping, gardening or tree
+plantations/forests activity are also eligible
+under this Scope. 
+
+Monitoring Period 01: 01/01/2021-31/12/2024
+
+Crediting Period: 01/01/2021-31/12/2024 
+______________
+State Tamil Nadu
+
+District Tirupur
+
+Block Basin/Sub
+
+Basin/Watershed
+
+Noyyal River Basin
+
+http://cgwb.gov.in/watershed/basinsindia.html
+
+Lat. & Longitude 11.064413, 77.3271706
+
+Area Extent 2.5 acres (CETP premises)
+
+No. of Villages/Towns Kuppandampalaym, Veerapandi
+_____________
+Chinnakkarai Common Effluent Treatment Plant Private Limited operates an integrated Common Effluent Treatment
+Plant (CETP) with a treatment capacity of 8 million litres per day (MLD). The facility was first commissioned on 13th
+January 1999 and serves 31 member industrial units, ensuring responsible and sustainable water management.
+The project participant holds both exclusive water user rights within the defined project boundary and the legal land
+title for the project site, which spans 7.54 acres. These rights facilitate full control over water resource utilization and
+infrastructure development.
+
+With a total capital investment of ₹55.88 Crores, the project covers all critical components, including construction,
+equipment procurement, permitting, and operational setup. The company has secured all required approvals from
+relevant regulatory bodies, demonstrating full compliance with applicable environmental and industrial regulations.
+This project activity underscores a strong commitment to sustainable water reuse and treatment, aligning with national
+legal frameworks and environmental standards. 
+
+The selection of the Zero Liquid Discharge (ZLD) system for the Chinnakarai Common Effluent Treatment Plant (CETP)
+was the result of a comprehensive evaluation of local geographic, climatic, and hydrological conditions. The project site
+is located in Tirupur, a region characterized by semi-arid topography, erratic rainfall, and significant stress on both
+surface and groundwater resources. The terrain is largely undulating and lacks robust natural drainage systems,
+especially during the dry season. As a result, traditional disposal or dilution-based methods of effluent management
+were deemed inappropriate for the area.
+
+Rainfall in Tirupur averages around 754 mm annually, but it is highly seasonal and concentrated within a few weeks of
+the year, leading to negligible natural recharge of water bodies or aquifers. Furthermore, the hydrogeological profile of
+the region indicates over-exploited aquifers with shallow, brackish, or saline groundwater. Most of the groundwater
+extracted in this area is already considered unsuitable for industrial or domestic use without treatment. Continued
+abstraction would only aggravate water table depletion and salinity intrusion, making it an unsustainable source for any
+effluent dilution or disposal system.
+
+Surface water options were also considered. However, the Noyyal River, which flows close to the Chinnakarai industrial
+cluster, has historically been a recipient of untreated or partially treated effluent, leading to heavy pollution loads,
+ecological degradation, and civic protests. Environmental regulations now prohibit any form of surface discharge into
+the river or its tributaries. This context rules out surface discharge as a viable or legal option, even for treated water.
+Alternative strategies such as marine discharge, where treated effluent is transported to the sea via pipeline for
+dispersion, were examined. However, the nearest coastline is over 250 kilometres away, and the high capital
+investment, energy requirements, and right-of-way challenges make this method logistically and economically
+unfeasible for a cluster-scale project like Chinnakarai CETP. Additionally, the environmental risks associated with largescale marine disposal further limit its acceptability under Tamil Nadu Pollution Control Board (TNPCB) guidelines.
+
+Historically, member dyeing units used solar evaporation pans for effluent disposal. Although simple in concept, this
+method has led to severe environmental damage in the past. The open pans require significant land area, often leak
+salts into the soil, and can overflow during rainfall events, causing localized contamination and community health risks.
+TNPCB has explicitly discouraged this method and issued closure notices to several non-compliant units.
+Given these constraints, the ZLD method was selected as the most technically sound and environmentally sustainable
+solution for managing the high-TDS effluent generated by the 31 member dyeing units. ZLD integrates physical,
+biological, and advanced membrane technologies to ensure over 90% water recovery, with the remaining concentrate
+managed through evaporation and crystallization. The recovered water is reused within the member units, significantly
+reducing their dependency on freshwater sources, while sodium sulphate salts are recovered and reused in the dyeing
+process, creating a closed-loop system.
+
+This decision aligns with Tamil Nadu’s mandatory ZLD policy for textile clusters and ensures full compliance with
+environmental norms. The choice was supported by feasibility studies conducted by Tamil Nadu Water Investment
+Company Ltd. (TWIC), which demonstrated that ZLD is both technically viable and economically justifiable in the context
+of Tirupur’s environmental and industrial challenges.
+
+
+
